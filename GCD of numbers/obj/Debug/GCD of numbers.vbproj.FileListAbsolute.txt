@@ -1,0 +1,13 @@
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\bin\Debug\GCD of numbers.exe.config
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\bin\Debug\GCD of numbers.exe
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\bin\Debug\GCD of numbers.pdb
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\bin\Debug\GCD of numbers.xml
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\obj\Debug\GCD of numbers.vbproj.AssemblyReference.cache
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\obj\Debug\GCD of numbers.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\obj\Debug\GCD_of_numbers.Form1.resources
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\obj\Debug\GCD_of_numbers.Resources.resources
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\obj\Debug\GCD of numbers.vbproj.GenerateResource.cache
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\obj\Debug\GCD of numbers.vbproj.CoreCompileInputs.cache
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\obj\Debug\GCD of numbers.exe
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\obj\Debug\GCD of numbers.xml
+C:\Users\ZaiyaanJattiem\source\repos\GCD of numbers\obj\Debug\GCD of numbers.pdb
